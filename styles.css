@@ -52,7 +52,7 @@
  }
 
 .boxhero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) ,url(../Image/pengukuhan2022a.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) ,url(pengukuhan2022a.png);
     width: 100%;
     background-position: center;
     background-size: cover;
